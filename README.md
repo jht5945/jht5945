@@ -8,4 +8,4 @@ This is Hatter Jiang's page
 
 
 
-_Generate your owne BTC address: https://git.hatter.ink/hatter/simple-rust-tests/src/branch/master/btc-address_
+_Generate your own BTC address: https://git.hatter.ink/hatter/simple-rust-tests/src/branch/master/btc-address_
