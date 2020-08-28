@@ -10,7 +10,7 @@ This is Hatter Jiang's personal page
 
 _Generate your own BTC address: https://git.hatter.ink/hatter/simple-rust-tests/src/branch/master/btc-address_
 
-<img src="https://github-readme-stats.vercel.app/api/?username=jht5945&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/?username=jht5945&show_icons=true&include_all_commits=true&count_private=true&theme=light&layout=compact" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jht5945&show_icons=true&include_all_commits=true&count_private=true&theme=dark&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jht5945&show_icons=true&include_all_commits=true&count_private=true&theme=light&layout=compact" />
 
