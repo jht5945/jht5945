@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 This is Hatter Jiang's personal page
-- 🏠  I’m currently living in Hangzhou Zhejiang, China
-- 📚  My most familiar programming language is Java and Rust, and I’m learning Go and Dart
+- 🏠  I’m currently living in [Hangzhou Zhejiang, China](https://hatter.in/map-hangzhou)
+- 📚  My most familiar programming languages are Java, Rust and JavaScript, and I’m learning Go, Dart and Zig
 - 📄  My personal git: https://git.hatter.ink/
 - 🔑  My OpenPGP keys: https://pgp.hatter.me/
 - 💰  My BTC address: 1**Hatter**Mxn5da9RcsqA4JbEGDFs3yyatZz
