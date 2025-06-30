@@ -6,6 +6,7 @@ This is Hatter Jiang's personal page
 - 📚  My most familiar programming languages are Java, Rust and JavaScript, and I’m learning Go, Dart and Zig
 - 📄  My personal git: https://git.hatter.ink/
 - 🔑  My OpenPGP keys: https://pgp.hatter.me/
+- 🆔 ORCiD: https://orcid.org/0009-0003-4101-7853
 - 💰  My BTC address: 1**Hatter**Mxn5da9RcsqA4JbEGDFs3yyatZz
 - 📮  Contact me via: ![](https://cdn.hatter.ink/doc/8044_B96883DDF42D2404AFF6D53096ED7598/hatter-at-jiang-family-email.svg)
 - 📝  Read more about me https://hatterjiang.org/ and more my websites https://hatter.me/
